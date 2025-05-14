@@ -16,8 +16,7 @@ This project analyzes global COVID-19 trends using real-world data from [Our Wor
 
 ## Instructions
 1. Clone or download the repo
-2. Place the dataset in the `data/` folder
-3. Open the notebook and run each cell
+2. Open the notebook and run each cell
 
 ## Dataset Source
 [OWID COVID-19 Dataset](https://covid.ourworldindata.org/data/owid-covid-data.csv)
